@@ -18,10 +18,10 @@ const Hero = () => {
                   Latest collection of Rudraksha Breads
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                  In the yogic tradition, Rudraksha are considered as the "Tears
-                  of Shiva" and not just an accessory or a piece of jewellery.
-                  It is seen as an instrument for inner transformation.This
-                  guide tells you all you need to know about this sacred seed.
+                  In the yogic tradition, Rudraksha are considered as the Tears
+                  of Shiva and not just an accessory or a piece of jewellery. It
+                  is seen as an instrument for inner transformation.This guide
+                  tells you all you need to know about this sacred seed.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
